@@ -56,4 +56,7 @@ h5{
     button.navbar-toggler.collapsed {
         margin-left: -200px !important;
     }
+    .navbar-brand img{
+        width: 150px;
+    }
 }
